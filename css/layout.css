@@ -33,6 +33,7 @@
 }
 
 .col-3 {
+ width: 98%
 }
 
 *[class*="col-"] {
