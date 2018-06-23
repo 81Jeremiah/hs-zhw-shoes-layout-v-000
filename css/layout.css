@@ -28,6 +28,6 @@
   column-count: 3;
 }
 
-#nav_bar {
+div #nav_bar {
   column-span: 3;
 }
