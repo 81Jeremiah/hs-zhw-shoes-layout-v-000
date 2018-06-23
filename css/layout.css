@@ -26,6 +26,7 @@
 
 .col-1 {
   width: 32%;
+  border-left: 1px solid #ccc;
 }
 
 .col-2 {
