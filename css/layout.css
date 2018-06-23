@@ -33,7 +33,7 @@
 }
 
 .col-3 {
-  margin: 10px;
+  margin: auto;
 }
 
 *[class*="col-"] {
