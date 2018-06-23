@@ -26,8 +26,6 @@
 
 .col-1 {
   width: 32%;
-  padding-left: 10px ;
-  border-left: 1px solid #ccc;
 }
 
 .col-2 {
@@ -46,4 +44,8 @@
 
 .first {
   margin-left: 0%;
+}
+.left-border {
+  padding-left: 10px ;
+  border-left: 1px solid #ccc;
 }
