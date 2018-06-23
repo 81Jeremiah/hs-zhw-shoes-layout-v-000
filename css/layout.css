@@ -27,3 +27,7 @@
 .wrapper {
   column-count: 3;
 }
+
+#nav_bar {
+  column-span: all;
+}
