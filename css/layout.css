@@ -24,6 +24,6 @@
 
 /* Posititoning Classes */
 
-#details{
+.wrapper {
   column-count: 3;
 }
